@@ -1,4 +1,8 @@
 # workbuddy-自动签到脚本
+ql_scripts-AI_auto_sign
+AI Agent platform automatic sign-in / daily task script
+
+
 
 ## 目录：
 
